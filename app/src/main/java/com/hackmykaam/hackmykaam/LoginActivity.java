@@ -70,6 +70,7 @@ public class LoginActivity extends AppCompatActivity {
 
     private void startSignIn() {
         String mEmail = email.getText().toString();
+
         String mPassword = password.getText().toString();
 
         if (TextUtils.isEmpty(mEmail) || TextUtils.isEmpty(mPassword)) {
