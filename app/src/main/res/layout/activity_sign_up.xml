@@ -20,14 +20,14 @@
         tools:layout_editor_absoluteY="42dp" />
 
     <EditText
-        android:id="@+id/Username"
+        android:id="@+id/Name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="148dp"
         android:ems="10"
-        android:hint="Username"
+        android:hint="Name"
         android:inputType="textPersonName"
         tools:layout_editor_absoluteX="85dp"
         tools:layout_editor_absoluteY="106dp" />
@@ -45,18 +45,6 @@
         tools:layout_editor_absoluteX="85dp"
         tools:layout_editor_absoluteY="163dp" />
 
-    <EditText
-        android:id="@+id/confirm"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="177dp"
-        android:ems="10"
-        android:hint="Confirm Password"
-        android:inputType="textPassword"
-        tools:layout_editor_absoluteX="85dp"
-        tools:layout_editor_absoluteY="220dp" />
 
     <Button
         android:id="@+id/Signupbtn"
