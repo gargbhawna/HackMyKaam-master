@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "852431720063",
+    "firebase_url": "https://hack-my-kaam-3f48d.firebaseio.com",
+    "project_id": "hack-my-kaam-3f48d",
+    "storage_bucket": "hack-my-kaam-3f48d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852431720063:android:b65ac9687b8cd165",
+        "android_client_info": {
+          "package_name": "com.hackmykaam.hackmykaam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852431720063-a4bn296bhdko7dhisd18s4ov1i3voeul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackmykaam.hackmykaam",
+            "certificate_hash": "3d2b9eb405d175b620b99ea4d8b371d2fbcf389d"
+          }
+        },
+        {
+          "client_id": "852431720063-285con0bbtpv4fhtf0dmqpsq6u86ovet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkwMSlJogFcRHxIl-ZjCfZ9oeX7EIw86M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852431720063-285con0bbtpv4fhtf0dmqpsq6u86ovet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
